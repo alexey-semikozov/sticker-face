@@ -1,23 +1,23 @@
 {
-    "name": "sticker-face",
-    "contributors": [{
+  "name": "sticker-face",
+  "contributors": [
+    {
       "name": "Alexey Semikozov",
       "email": "alexey@semikozov.com",
       "url": "https://github.com/alexey-semikozov"
-    }, {
+    },
+    {
       "name": "Maxim Kudryavtsev",
       "email": "mac.kudryavtsev@gmail.com",
       "url": "https://github.com/maximkudriavtsev"
     }
   ],
-    "license": "Mit",
-    "devDependencies": {
-    
-    },
-    "dependencies": {
-
-    },
-    "scripts": {
-      "image": "node scripts/face-finder.js"
-    }
+  "license": "Mit",
+  "devDependencies": {},
+  "dependencies": {
+    "opencv4nodejs": "^4.13.0"
+  },
+  "scripts": {
+    "image": "node scripts/face-finder.js"
+  }
 }
