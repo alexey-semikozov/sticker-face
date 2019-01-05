@@ -2,21 +2,18 @@
 
 #### Installation
 
-```
+```bash
 sudo xcode-select --install`
 ```
-```
+```bash
 brew install cmake pkg-config
 brew install jpeg libpng libtiff openexr ?
 brew install eigen tbb ?
 ```
-```
-brew install opencv`
-```
-```
-`brew install `
+```bash
+brew install opencv
 ```
 
-```
+```bash
 yarn
 ```
