@@ -3,7 +3,7 @@
 #### Installation
 
 ```bash
-sudo xcode-select --install`
+sudo xcode-select --install
 ```
 ```bash
 brew install cmake pkg-config

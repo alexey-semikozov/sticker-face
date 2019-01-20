@@ -18,6 +18,7 @@
     "opencv4nodejs": "^4.13.0"
   },
   "scripts": {
-    "image": "node scripts/face-finder.js"
+    "image": "node scripts/face-finder.js",
+    "py": "python3 scripts/main.py"
   }
 }
