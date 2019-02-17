@@ -83,7 +83,7 @@ def findSignificantContours (img, edgeImg):
     #print ([x[1] for x in significant]);
     return [x[0] for x in significant]
 
-def scale_image(start_image, width=None, height=None):
+def scale_image(start_image, width = None, height = None):
     w, h = start_image.size
  
     if width and height:
