@@ -1,5 +1,13 @@
 ## 🕵️‍♀️ SECRET README 🕵️‍♂️
 
+### Start
+```bash
+workon cv
+python3 [filename].py
+
+jupyter notebook
+```
+
 #### Installation
 
 ```bash
